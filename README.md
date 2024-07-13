@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, CRM and Salesforce
 - 🌱 I’m currently learning coding in JS, Phython, ...
 - 💞️ I’m looking to collaborate online with professional and  matured colleagues.
-- 📫 How to reach me through e-mail: kmmawela@gmail.com / kmmawela@outlook.com / kmmawela@yahoo.co.uk
+- 📫 How to reach me through e-mail: kmmawela@gmail.com / kmmawela@outlook.com / kmmawela@yahoo.co.uk - Cell: 071 58 22 888
 - 😄 Pronouns: Phaahla
 - ⚡ Fun fact: "Work is either fun or drudgery, it depends on your attitude. I like fun." by Collen Barret.
 
