@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @kmmawela17
-- 👀 I’m interested in coding, CRM and Salesforce
-- 🌱 I’m currently learning coding in JS, Phython, ...
-- 💞️ I’m looking to collaborate online with professional and  matured colleagues.
-- 📫 How to reach me through e-mail: kmmawela@gmail.com / kmmawela@outlook.com / kmmawela@yahoo.co.uk - Cell: 071 58 22 888
+- 👋 Hi, my name is Maloke Kenneth Mawela. My GitHub username is @kmmawela17.
+- 👀 I'm interested in coding, web development, and app development.
+- 🌱 I'm currently learning to code in Java.
+- 💞️ I'm looking forward to collaborating online with professionals and colleagues.
+- 📫 How to reach me:Email: kmmawela@gmail.com / kmmawela@outlook.com / kmmawela@yahoo.co.uk, Cell: 071 582 2888
 - 😄 Pronouns: Phaahla
-- ⚡ Fun fact: "Work is either fun or drudgery, it depends on your attitude. I like fun." by Collen Barret.
+- ⚡ Fun fact: "Work is either fun or drudgery, it depends on your attitude. I like fun." - Colleen Barrett
 
 <!---
 kmmawela17/kmmawela17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
