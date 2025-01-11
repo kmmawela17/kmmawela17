@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning to code in Java.
 - 💞️ I'm looking forward to collaborating online with professionals and colleagues.
 - 📫 How to reach me: email: kmmawela@gmail.com / kmmawela@outlook.com / kmmawela@yahoo.co.uk, Cell: 071 582 2888
-- 😄 Pronouns: Phaahla
+- 😄 Pronouns: He / Him
 - ⚡ Fun fact: "Work is either fun or drudgery, it depends on your attitude. I like fun." - Colleen Barrett
 
 <!---
