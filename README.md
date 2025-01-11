@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Maloke Kenneth Mawela. My GitHub username is @kmmawela17.
-- 👀 I'm interested in coding, web development, and app development.
+- 👀 I'm interested in coding, web development, system development and app development.
 - 🌱 I'm currently learning to code in Java.
 - 💞️ I'm looking forward to collaborating online with professionals and colleagues.
 - 📫 How to reach me:Email: kmmawela@gmail.com / kmmawela@outlook.com / kmmawela@yahoo.co.uk, Cell: 071 582 2888
